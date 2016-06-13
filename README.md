@@ -37,7 +37,7 @@ To run the dev server :
 ### `npm run dev`
 
 ##Use It
-I can be easily added in your project with git
+It can be easily added in your project with git
 ```
 mkdir myproject && cd myproject
 git init .
